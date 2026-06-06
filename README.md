@@ -8,12 +8,17 @@
 
 * added java 25 support.
 
+* simple voice chat working (thank you congcq for the fix)
+
 
 # changes potentially coming in the future
 * fix open gl crashing on 26.1-26.2
 
 * ~~make the java 25 implementation less "hacky"~~
 
+# ISSUES 
+
+* keyboard dosent work properly
 
 # NOTE
 if you do use this build and want to use the new

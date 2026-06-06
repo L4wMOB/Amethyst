@@ -25,7 +25,7 @@ jobs:
         java-version: '8'
         distribution: 'zulu'
 
-    - name: Install System Dependencies
+    - name: Install Dependencies
       run: |
         brew install ldid wget make
         sudo mkdir -p /usr/local/bin
